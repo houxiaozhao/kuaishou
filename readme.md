@@ -9,7 +9,7 @@
 
 使用python fonttools工具。解析实时解析字体文件。
 
-![Snipaste_2020-09-11_15-08-16](C:\Users\EDZ\Desktop\kuaishou\Snipaste_2020-09-11_15-08-16.png)
+![字体](https://github.com/houxiaozhao/kuaishou/blob/master/Snipaste_2020-09-11_15-08-16.png?raw=true)
 
 顺序一直是这个顺序，做了一个讨巧的设置。
 
