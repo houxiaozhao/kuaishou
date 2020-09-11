@@ -45,7 +45,6 @@ def getuserinfo(url):
             first_map[uni] = '+'
         else:
             first_map[uni] = i
-    print(uni_list)
     print(first_map)
     bestcmap = font['cmap'].getBestCmap()
     newmap = dict()
